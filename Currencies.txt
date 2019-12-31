@@ -12,4 +12,4 @@
 "KRW":"Won Surcoreano"
 "SGD":"Dolares de Singapur"
 "NOK":"Coronas Noruegas"
-"MXN":"Pesos Mejicanos"
+"MXN":"Pesos Mexicanos"
